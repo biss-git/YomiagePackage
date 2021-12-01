@@ -7,11 +7,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YomiagePackage2019_2022", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YomiageEngineTemplate", "YomiageEngineTemplate\YomiageEngineTemplate.csproj", "{A8B909D0-C6CE-47B2-B259-10A07B350CFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YomiageEngineTemplateStandard", "YomiageEngineTemplateStandard\YomiageEngineTemplateStandard.csproj", "{4EEB6D6A-10D2-42F7-A76E-99AC869B2124}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YomiageEngineTemplateStandard", "YomiageEngineTemplateStandard\YomiageEngineTemplateStandard.csproj", "{4EEB6D6A-10D2-42F7-A76E-99AC869B2124}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YomiageLibraryTemplate", "YomiageLibraryTemplate\YomiageLibraryTemplate.csproj", "{65D68616-C5F5-49EA-AA3D-108F9FF939F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YomiageLibraryTemplate", "YomiageLibraryTemplate\YomiageLibraryTemplate.csproj", "{65D68616-C5F5-49EA-AA3D-108F9FF939F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YomiageLibraryTemplateStandard", "YomiageLibraryTemplateStandard\YomiageLibraryTemplateStandard.csproj", "{FDB544BC-E77D-4542-802C-756D4FF18C3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YomiageLibraryTemplateStandard", "YomiageLibraryTemplateStandard\YomiageLibraryTemplateStandard.csproj", "{FDB544BC-E77D-4542-802C-756D4FF18C3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YomiageEngineLibraryStandard", "YomiageEngineLibraryStandard\YomiageEngineLibraryStandard.csproj", "{1E087899-BECD-4273-9088-DBB09A5F6DE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YomiageEngineLibrary", "YomiageEngineLibrary\YomiageEngineLibrary.csproj", "{D40B5476-128D-46B3-8912-A02D99F19B6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +65,22 @@ Global
 		{FDB544BC-E77D-4542-802C-756D4FF18C3F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FDB544BC-E77D-4542-802C-756D4FF18C3F}.Release|x86.ActiveCfg = Release|Any CPU
 		{FDB544BC-E77D-4542-802C-756D4FF18C3F}.Release|x86.Build.0 = Release|Any CPU
+		{1E087899-BECD-4273-9088-DBB09A5F6DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E087899-BECD-4273-9088-DBB09A5F6DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E087899-BECD-4273-9088-DBB09A5F6DE8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1E087899-BECD-4273-9088-DBB09A5F6DE8}.Debug|x86.Build.0 = Debug|Any CPU
+		{1E087899-BECD-4273-9088-DBB09A5F6DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E087899-BECD-4273-9088-DBB09A5F6DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E087899-BECD-4273-9088-DBB09A5F6DE8}.Release|x86.ActiveCfg = Release|Any CPU
+		{1E087899-BECD-4273-9088-DBB09A5F6DE8}.Release|x86.Build.0 = Release|Any CPU
+		{D40B5476-128D-46B3-8912-A02D99F19B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40B5476-128D-46B3-8912-A02D99F19B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40B5476-128D-46B3-8912-A02D99F19B6B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D40B5476-128D-46B3-8912-A02D99F19B6B}.Debug|x86.Build.0 = Debug|Any CPU
+		{D40B5476-128D-46B3-8912-A02D99F19B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40B5476-128D-46B3-8912-A02D99F19B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D40B5476-128D-46B3-8912-A02D99F19B6B}.Release|x86.ActiveCfg = Release|Any CPU
+		{D40B5476-128D-46B3-8912-A02D99F19B6B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
