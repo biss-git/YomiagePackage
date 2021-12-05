@@ -69,7 +69,8 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="ProjectTemplates\YomiageEngineLibrary%28.NET%29.zip">
+    <Content Include="テンプレート文言.txt" />
+    <Content Include="ProjectTemplates\YomiageEngineLibrary %28.NET%29.zip">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
@@ -83,10 +84,10 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="YomiageEngineLibrary %28.NET Standard%29.zip">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="YomiageEngineLibrary%28.NET%29.zip">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    <None Include="YomiageEngineLibrary %28.NET%29.zip">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="YomiageLibrary %28.NET Standard%29.zip">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>

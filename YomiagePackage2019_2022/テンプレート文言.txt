@@ -1,0 +1,13 @@
+
+ユニコエのエンジンを作成するためのテンプレート
+YomiageEngine (.NET Standard)
+YomiageEngine (.NET)
+
+ユニコエのエンジン・ライブラリを作成するためのテンプレート
+YomiageEngineLibrary (.NET Standard)
+YomiageEngineLibrary (.NET)
+
+ユニコエのライブラリを作成するためのテンプレート
+YomiageLibrary (.NET Standard)
+YomiageLibrary (.NET)
+
