@@ -11,9 +11,9 @@ namespace YomiageEngineLibrary
 {
     public class VoiceEngine : VoiceEngineBase
     {
-        public override async Task<double[]> Play(VoiceConfig mainVoice, VoiceConfig subVoice, TalkScript talkScript, MasterEffectValue masterEffect, Action<int> setSamplingRate_Hz)
+        public override async Task<double[]> Play(VoiceConfig mainVoice, VoiceConfig subVoice, TalkScript talkScript, MasterEffectValue masterEffect, Action<int> setSamplingRate_Hz, Action<double[]> submitWavePart)
         {
-            return await base.Play(mainVoice, subVoice, talkScript, masterEffect, setSamplingRate_Hz);
+            return await base.Play(mainVoice, subVoice, talkScript, masterEffect, setSamplingRate_Hz, submitWavePart);
         }
     }
 }

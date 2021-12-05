@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Yomiage.SDK" Version="1.1.0" />
+    <PackageReference Include="Yomiage.SDK" Version="1.6.0" />
   </ItemGroup>
 
   <ItemGroup>
@@ -36,7 +36,13 @@
     <None Update="library\picture\Base.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Update="library\picture\DarkBackground.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Update="library\picture\EyeClose.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="library\picture\LightBackground.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Update="library\picture\MouthOpen.png">
