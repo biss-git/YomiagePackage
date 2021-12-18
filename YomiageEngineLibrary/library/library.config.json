@@ -4,6 +4,9 @@
   "Description": "ライブラリの説明",
   "OS": "Windows",
   "Language": "Japanese",
+  "LibraryFormat": [
+    "Format"
+  ],
   "VolumeSetting": {
     "Name": "音量",
     "Unit": "[倍]",

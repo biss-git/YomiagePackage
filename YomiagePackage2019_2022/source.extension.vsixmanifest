@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="YomiagePackage.d8ba7309-db8b-450b-aeff-cebeb9be47aa" Version="1.4" Language="ja-JP" Publisher="bisu" />
+        <Identity Id="YomiagePackage.d8ba7309-db8b-450b-aeff-cebeb9be47aa" Version="1.5" Language="ja-JP" Publisher="bisu" />
         <DisplayName>Yomiage Package</DisplayName>
         <Description xml:space="preserve">Template Package for YomiageLibrary</Description>
         <MoreInfo>https://sites.google.com/view/unicoe/%E3%83%9B%E3%83%BC%E3%83%A0</MoreInfo>
